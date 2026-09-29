@@ -1,0 +1,6 @@
+{
+  "index": "projects/441953099879/locations/asia-northeast3/indexes/1522168295539605504",
+  "index_endpoint": "projects/441953099879/locations/asia-northeast3/indexEndpoints/7358345229449035776",
+  "deployed_index_id": "rag_deployed_index",
+  "corpus": "projects/441953099879/locations/asia-northeast3/ragCorpora/4611686018427387904"
+}
